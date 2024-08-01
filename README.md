@@ -1,2 +1,2 @@
 # Simon-Game
-Minigame using jquery in JS.
+Minigame using jQuery in JS.
